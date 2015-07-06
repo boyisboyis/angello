@@ -37,7 +37,7 @@ You're done! Skip to the *Start it* section
 ![Set the backend](https://cloud.githubusercontent.com/assets/590361/4444425/ce28c818-47f0-11e4-9457-d95a20e9450d.png)
 
 You're done! Go ahead and move on to the *Start it* section.
- 
+
 
 #### Start it
 If you have a local web server that you use, simply serve the client directory of the project. If you do not, you will need to install [Node.js and NPM](https://nodejs.org/download/).
